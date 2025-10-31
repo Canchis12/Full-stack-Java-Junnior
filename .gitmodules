@@ -1,3 +1,6 @@
 [submodule "Manipulacion_de_Arrays"]
 	path = Manipulacion_de_Arrays
 	url = https://github.com/Canchis12/Manipulacion_de_Arrays.git
+[submodule "Lab_Propiedades_Objetos"]
+	path = Lab_Propiedades_Objetos
+	url = https://github.com/Canchis12/Lab_Propiedades_Objetos.git
