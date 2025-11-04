@@ -4,3 +4,6 @@
 [submodule "Lab_Propiedades_Objetos"]
 	path = Lab_Propiedades_Objetos
 	url = https://github.com/Canchis12/Lab_Propiedades_Objetos.git
+[submodule "Lab_Declarando_Clases"]
+	path = Lab_Declarando_Clases
+	url = https://github.com/Canchis12/Lab_Declarando_Clases
