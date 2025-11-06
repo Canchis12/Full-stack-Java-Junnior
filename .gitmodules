@@ -7,3 +7,6 @@
 [submodule "Lab_Declarando_Clases"]
 	path = Lab_Declarando_Clases
 	url = https://github.com/Canchis12/Lab_Declarando_Clases
+[submodule "Lab_Count_Html_Css_JS"]
+	path = Lab_Count_Html_Css_JS
+	url = https://github.com/Canchis12/Lab_Count_Html_Css_JS
